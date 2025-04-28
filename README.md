@@ -1,6 +1,8 @@
 # Reneweble energy Prediction API
+(https://drive.google.com/drive/folders/1KKtD6_tlwz-SdP5VI7hzkBPWOy35jhZI?usp=sharing) **folder lengkap fast api**
 
 Sebuah mini-proyek berbasis **FastAPI** yang dapat memprediksi kemungkinan **stok energy beberapa tahun ke depan**, berdasarkan data energy.
+
 
 ## 📁 Struktur File
 
